@@ -1,0 +1,16 @@
+{
+  "name": "promoplural",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d web"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://promoplural.github.io/pluralsight",
+  "license": "ISC",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
